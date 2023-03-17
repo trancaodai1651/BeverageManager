@@ -1,0 +1,764 @@
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.SanPham.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.DonHang.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.NhapKho.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.PhieuChi.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.PhieuThu.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.DonHang.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.NhapKho.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.PhieuChi.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.PhieuThu.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.SanPham.resources
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CopyComplete
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+C:\Users\datsu\Downloads\VANQUYEN\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.KhanhHang.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.NhaCungCap.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.NhanVien.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.BanHang.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.DonVi.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Form1.resources
+D:\Lưu trữ\Lập trình\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.UserControl1.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucBanHang.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonHang.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucKhanhHang.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonVi.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhaCungCap.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhanVien.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhapKho.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucPhieuChi.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucPhieuThu.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucSanPham.resources
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.manifest
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.application
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe.manifest
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.application
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.manifest
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.application
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucBanHang.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonHang.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucKhanhHang.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonVi.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhaCungCap.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhanVien.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhapKho.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucPhieuChi.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucPhieuThu.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucSanPham.resources
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe.manifest
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.application
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CopyComplete
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+C:\Users\datsu\OneDrive - IT software\Pictures\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+D:\Lưu trữ\Project\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemNhapKho.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.manifest
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.application
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemNhapKho.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucBanHang.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonHang.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucKhanhHang.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonVi.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhaCungCap.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhanVien.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhapKho.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucSanPham.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe.manifest
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.application
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CopyComplete
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemCTHoaDon.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.manifest
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.application
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemCTHoaDon.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemNhapKho.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucBanHang.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonHang.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucKhanhHang.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonVi.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhaCungCap.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhanVien.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhapKho.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucSanPham.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.cache
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.compiled
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe.manifest
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.application
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CopyComplete
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EnvDTE.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\stdole.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.MSXML.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmInCTHoaDon.resources
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Report\HoaDonReport.rdlc
+D:\doan\REPORT\Beverage Manager\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Report\HoaDonReport.rdlc
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.manifest
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.application
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\EnvDTE.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\stdole.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmInCTHoaDon.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemCTHoaDon.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemNhapKho.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucBanHang.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonHang.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucKhanhHang.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonVi.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhaCungCap.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhanVien.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhapKho.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucSanPham.resources
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.cache
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.compiled
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe.manifest
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.application
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+C:\Users\daitr\Music\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Report\HoaDonReport.rdlc
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EnvDTE.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\stdole.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.MSXML.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmInCTHoaDon.resources
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.cache
+D:\doan\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.compiled
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Report\HoaDonReport.rdlc
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.manifest
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.application
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\EnvDTE.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\stdole.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmInCTHoaDon.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemCTHoaDon.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemNhapKho.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucBanHang.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonHang.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucKhanhHang.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonVi.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhaCungCap.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhanVien.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhapKho.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucSanPham.resources
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.cache
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.compiled
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe.manifest
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.application
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+C:\Users\daitr\Pictures\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Report\HoaDonReport.rdlc
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.manifest
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.application
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EnvDTE.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\stdole.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.MSXML.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmInCTHoaDon.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemCTHoaDon.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemNhapKho.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucBanHang.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonHang.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucKhanhHang.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonVi.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhaCungCap.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhanVien.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhapKho.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucSanPham.resources
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.cache
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\RdlCompile.compiled
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe.manifest
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.application
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CopyComplete
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+D:\DOANWINDOS\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.AssemblyReference.cache
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemCTHoaDon.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmXemNhapKho.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucBanHang.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonHang.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmLogin.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmMenu.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaKH.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaDonVi.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNCC.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaNV.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmSuaSP.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemKH.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemDonVi.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNCC.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmNhapKho.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemNV.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.frmThemSP.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucKhanhHang.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucDonVi.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhaCungCap.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhanVien.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucNhapKho.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Properties.Resources.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.Resources.TonKho.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage_Manager.ucSanPham.resources
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.GenerateResource.cache
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CoreCompileInputs.cache
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.pdb
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.config
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe.manifest
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.application
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.exe
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Guna.UI2.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EnvDTE.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\stdole.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.xml
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.exe.manifest
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.application
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\obj\Debug\Beverage Manager.csproj.CopyComplete
+C:\Users\daitr\OneDrive\Documents\Beverage Manager\Beverage Manager\Beverage Manager\bin\Debug\Beverage Manager.pdb
